@@ -1,4 +1,4 @@
-# Kiner
+<p align="center"><img src="https://s31.postimg.cc/ixq75mhbv/LOGO_PROPOSAL_FOR_KINER_2.jpg"></p>
 
 [![Build Status](https://travis-ci.org/bufferapp/kiner.svg?branch=master)](https://travis-ci.org/bufferapp/kiner)
 [![PyPI version](https://badge.fury.io/py/kiner.svg)](https://badge.fury.io/py/kiner)
